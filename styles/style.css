@@ -1,5 +1,8 @@
 p {
 	color: white;
+	border: 10px
+solid white;
+padding: 20px 20px 20px 20px;
 }
 h1 {
 	color: #FFFF00;
@@ -9,11 +12,6 @@ h2 {
 }
 h3 {
 	color: #FFFF00;
-}
-div {
-	text-align: center;
-	border: 10px
-solid white;
 }
 img {
   display: block;
